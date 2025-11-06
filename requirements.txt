@@ -1,4 +1,4 @@
-Flask
+flask
 gunicorn
 numpy
 matplotlib
@@ -6,4 +6,5 @@ scikit-fuzzy
 ipywidgets
 networkx
 scipy
+
 packaging
